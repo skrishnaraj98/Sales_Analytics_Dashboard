@@ -23,25 +23,28 @@ Histogram analysis reveals high volume in mid-size orders (200–400 boxes), hel
 ## 🤔 What This Dashboard Helps Answer
 
 1️⃣ Which products and regions drive the most revenue?
+
 2️⃣ Who are the top and bottom-performing salespeople?
+
 3️⃣ How do sales and profit fluctuate month over month?
+
 4️⃣ What is the distribution of shipments by box volume?
 
 ## 🛠️ Tools & Techniques Used
 
 Power BI Features:
 
-#### DAX Measures & Time Intelligence
+#### 1. DAX Measures & Time Intelligence
 
-#### KPI Cards with Conditional Formatting
+#### 2. KPI Cards with Conditional Formatting
 
-#### Field Parameters & Slicers
+#### 3. Field Parameters & Slicers
 
-#### Custom Tooltips & Zoom Slider
+#### 4. Custom Tooltips & Zoom Slider
 
-#### Bookmarks for Page Navigation
+#### 5. Bookmarks for Page Navigation
 
-#### Histogram & Trend Visuals
+#### 6. Histogram & Trend Visuals
 
 ## Design Focus:
 Intuitive layout, color-coded indicators, and dynamic filters for smooth user interaction and analysis.
